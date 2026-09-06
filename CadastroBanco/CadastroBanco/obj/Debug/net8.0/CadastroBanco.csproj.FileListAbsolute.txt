@@ -1,0 +1,14 @@
+C:\ProjetosCode\CadastroBanco\CadastroBanco\bin\Debug\net8.0\CadastroBanco.exe
+C:\ProjetosCode\CadastroBanco\CadastroBanco\bin\Debug\net8.0\CadastroBanco.deps.json
+C:\ProjetosCode\CadastroBanco\CadastroBanco\bin\Debug\net8.0\CadastroBanco.runtimeconfig.json
+C:\ProjetosCode\CadastroBanco\CadastroBanco\bin\Debug\net8.0\CadastroBanco.dll
+C:\ProjetosCode\CadastroBanco\CadastroBanco\bin\Debug\net8.0\CadastroBanco.pdb
+C:\ProjetosCode\CadastroBanco\CadastroBanco\obj\Debug\net8.0\CadastroBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosCode\CadastroBanco\CadastroBanco\obj\Debug\net8.0\CadastroBanco.AssemblyInfoInputs.cache
+C:\ProjetosCode\CadastroBanco\CadastroBanco\obj\Debug\net8.0\CadastroBanco.AssemblyInfo.cs
+C:\ProjetosCode\CadastroBanco\CadastroBanco\obj\Debug\net8.0\CadastroBanco.csproj.CoreCompileInputs.cache
+C:\ProjetosCode\CadastroBanco\CadastroBanco\obj\Debug\net8.0\CadastroBanco.dll
+C:\ProjetosCode\CadastroBanco\CadastroBanco\obj\Debug\net8.0\refint\CadastroBanco.dll
+C:\ProjetosCode\CadastroBanco\CadastroBanco\obj\Debug\net8.0\CadastroBanco.pdb
+C:\ProjetosCode\CadastroBanco\CadastroBanco\obj\Debug\net8.0\CadastroBanco.genruntimeconfig.cache
+C:\ProjetosCode\CadastroBanco\CadastroBanco\obj\Debug\net8.0\ref\CadastroBanco.dll
