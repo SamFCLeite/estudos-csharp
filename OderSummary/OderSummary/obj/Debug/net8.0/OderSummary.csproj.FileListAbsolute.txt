@@ -1,0 +1,14 @@
+C:\ProjetosCode\OderSummary\OderSummary\bin\Debug\net8.0\OderSummary.exe
+C:\ProjetosCode\OderSummary\OderSummary\bin\Debug\net8.0\OderSummary.deps.json
+C:\ProjetosCode\OderSummary\OderSummary\bin\Debug\net8.0\OderSummary.runtimeconfig.json
+C:\ProjetosCode\OderSummary\OderSummary\bin\Debug\net8.0\OderSummary.dll
+C:\ProjetosCode\OderSummary\OderSummary\bin\Debug\net8.0\OderSummary.pdb
+C:\ProjetosCode\OderSummary\OderSummary\obj\Debug\net8.0\OderSummary.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosCode\OderSummary\OderSummary\obj\Debug\net8.0\OderSummary.AssemblyInfoInputs.cache
+C:\ProjetosCode\OderSummary\OderSummary\obj\Debug\net8.0\OderSummary.AssemblyInfo.cs
+C:\ProjetosCode\OderSummary\OderSummary\obj\Debug\net8.0\OderSummary.csproj.CoreCompileInputs.cache
+C:\ProjetosCode\OderSummary\OderSummary\obj\Debug\net8.0\OderSummary.dll
+C:\ProjetosCode\OderSummary\OderSummary\obj\Debug\net8.0\refint\OderSummary.dll
+C:\ProjetosCode\OderSummary\OderSummary\obj\Debug\net8.0\OderSummary.pdb
+C:\ProjetosCode\OderSummary\OderSummary\obj\Debug\net8.0\OderSummary.genruntimeconfig.cache
+C:\ProjetosCode\OderSummary\OderSummary\obj\Debug\net8.0\ref\OderSummary.dll
