@@ -51,6 +51,47 @@ O projeto representa um pedido contendo diferentes informações, como cliente, 
 
 ---
 
+## 📁 PriceTags
+
+### Objetivo
+
+Projeto desenvolvido para praticar **herança e polimorfismo em C#**, utilizando diferentes tipos de produtos como exemplo.
+
+A ideia é criar uma classe base para representar um produto e, a partir dela, criar classes derivadas com características e comportamentos específicos.
+
+### O que foi usado
+
+* **Herança:** criação de classes derivadas a partir de uma classe base, permitindo reutilizar seus atributos e métodos.
+
+* **Classe base:** criação de uma estrutura comum para representar os produtos.
+
+* **Classes derivadas:** criação de diferentes tipos de produtos que herdam características da classe base.
+
+* **Polimorfismo:** utilização de uma referência do tipo da classe base para trabalhar com objetos de diferentes classes derivadas.
+
+* **Métodos virtuais (`virtual`):** definição de comportamentos na classe base que podem ser modificados pelas classes derivadas.
+
+* **Sobreposição (`override`):** alteração do comportamento de um método herdado para adaptá-lo às necessidades de cada classe derivada.
+
+* **Encapsulamento:** organização e controle do acesso aos dados das classes.
+
+* **`base`:** acesso a membros da classe base a partir das classes derivadas.
+
+* **Conversão de tipos (`is` / `as`):** identificação e conversão de objetos para seus tipos específicos quando necessário.
+
+* **Lista de objetos:** armazenamento dos diferentes produtos em uma coleção utilizando o tipo da classe base.
+
+### Conceitos principais praticados
+
+**Herança →** uma classe especializada aproveita a estrutura de uma classe mais geral.
+
+**Polimorfismo →** diferentes tipos de objetos podem ser tratados através de uma referência comum da classe base.
+
+**Sobrescrita →** cada classe derivada pode fornecer sua própria implementação de um comportamento herdado.
+
+
+---
+
 ## 📚 Conteúdos estudados
 
 Ao longo dos projetos deste repositório, estou praticando principalmente:
